@@ -32,7 +32,7 @@ Werkzeug==1.0.1
 wincertstore==0.2
 
 # Application
-<a href="https://diabetespredictor-reflective-oribi-ez.cfapps.io/diabetes">https://diabetespredictor-reflective-oribi-ez.cfapps.io/diabetes/</a>
+<a href="https://diabetespredictor-reflective-oribi-ez.cfapps.io/">https://diabetespredictor-reflective-oribi-ez.cfapps.io/</a>
 <br/>
 # How to cite ?
 yet to come
