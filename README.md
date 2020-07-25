@@ -5,7 +5,7 @@
 ###### Home page
 ![](/images/Main-Page.jpg)
 ###### Prediction page
-![](/images/final-prediction -page.JPG)
+![](/images/predictionpage.jpg)
 ###### Result page
 ![](/images/Result-Page.jpg)
 
