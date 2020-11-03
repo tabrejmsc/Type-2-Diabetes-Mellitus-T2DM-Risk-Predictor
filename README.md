@@ -35,4 +35,4 @@ wincertstore==0.2
 <a href="https://type2-diabetes-risk-predictor.herokuapp.com//">https://type2-diabetes-risk-predictor.herokuapp.com/</a>
 <br/>
 # How to cite ?
-yet to come
+A. H. Syed and T. Khan, "Machine Learning-Based Application for Predicting Risk of Type 2 Diabetes mellitus (T2DM) in Saudi Arabia: A Retrospective Cross-sectional Study," in IEEE Access, doi: 10.1109/ACCESS.2020.3035026.
