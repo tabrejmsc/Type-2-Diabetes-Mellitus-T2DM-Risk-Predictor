@@ -35,4 +35,7 @@ wincertstore==0.2
 <a href="https://type2-diabetes-risk-predictor.herokuapp.com//">https://type2-diabetes-risk-predictor.herokuapp.com/</a>
 <br/>
 # How to cite ?
-A. H. Syed and T. Khan, "Machine Learning-Based Application for Predicting Risk of Type 2 Diabetes mellitus (T2DM) in Saudi Arabia: A Retrospective Cross-sectional Study," in IEEE Access, doi: 10.1109/ACCESS.2020.3035026.
+A. H. Syed and T. Khan, "Machine Learning-Based Application for Predicting Risk of Type 2 Diabetes Mellitus (T2DM) in Saudi Arabia: A Retrospective Cross-Sectional Study," in IEEE Access, vol. 8, pp. 199539-199561, 2020, doi: 10.1109/ACCESS.2020.3035026.
+https://ieeexplore.ieee.org/document/9245498?source=authoralert
+# Dataset
+https://ieee-dataport.org/open-access/cross-sectional-type-2-diabetes-survey-saudi-arabia-western-province
